@@ -1,0 +1,5 @@
+observes chrome & safari. watches for sites in .config/blocked-sites.
+
+and then shuts it down. all of it.
+
+forked & inspired by @patrickc's Undop: https://github.com/pc/Undop.
